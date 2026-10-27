@@ -1,0 +1,6 @@
+{
+  "name": "cache-pill",
+  "version": "0.3.0",
+  "description": "Color-coded prompt-cache countdown pill in the prompt footer, TTL read from the session transcript",
+  "types": "./types/index.d.ts"
+}
